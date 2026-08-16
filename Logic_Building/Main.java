@@ -1,17 +1,26 @@
 //Phase 1 : While Loop
 
 // 1. Print all numbers from 1 to 10 using a loop.
-public class Main {
-    public static void main(String args[]) {
-        int i = 1;
-        while (i <= 10) {
-            System.out.println(i);
-            i++;
-        }
-    }
-}
+// public class Main {
+//     public static void main(String args[]) {
+//         int i = 1;
+//         while (i <= 10) {
+//             System.out.println(i);
+//             i++;
+//         }
+//     }
+// }
 
 // 2. Print numbers from 10 down to 1 in reverse order.
+// public class Main {
+//     public static void main(String args[]) {
+//         int i = 10;
+//         while (i >= 1) {
+//             System.out.println(i);
+//             i--;
+//         }
+//     }
+// }
 
 // 3. Print all even numbers between 1 and 100.
 
