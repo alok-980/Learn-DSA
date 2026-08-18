@@ -278,3 +278,54 @@ import java.util.*;
 //         }
 //     }
 // }
+
+// 19. Find and print the sum of the first n natural numbers.
+// public class Main {
+//     public static void main(String args[]) {
+//         Scanner sc = new Scanner(System.in);
+//         int num = sc.nextInt();
+
+//         int sum = 0;
+//         for(int i=1; i<=num; i++) {
+//             sum += i;
+//         }
+
+//         System.out.println(sum);
+//     }
+// }
+
+// 20. Find and print the sum of all even numbers from 1 up to n.
+// public class Main {
+//     public static void main(String args[]) {
+//         Scanner sc = new Scanner(System.in);
+//         int num = sc.nextInt();
+
+//         int sum = 0;
+
+//         for(int i = 1; i <= num; i++) {
+//             if(num % i == 0) {
+//                 sum += i;
+//             }
+//         }
+
+//         System.out.println(sum);
+//     }
+// }
+
+// 21. Find and print the sum of all odd numbers from 1 up to n.
+// public class Main {
+//     public static void main(String args[]) {
+//         Scanner sc = new Scanner(System.in);
+//         int num = sc.nextInt();
+
+//         int sum = 0;
+
+//         for(int i=1; i<=num; i++) {
+//             if(num % i != 0) {
+//                 sum += i;
+//             }
+//         }
+
+//         System.out.println(sum);
+//     }
+// }
